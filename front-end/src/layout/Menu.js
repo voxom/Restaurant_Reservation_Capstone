@@ -14,7 +14,7 @@ function Menu() {
       <div className="w-full text-xl">
         <Link className="navbar-brand" to="/">
           <div>
-            <span className="text-white h3">Periodic Reservations</span>
+            <span className="text-white h3">Periodic Tables</span>
           </div>
         </Link>
         <ul className="text-light">
