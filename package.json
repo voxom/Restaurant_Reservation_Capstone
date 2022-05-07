@@ -49,6 +49,7 @@
   "author": "Thinkful, Inc.",
   "license": "UNLICENSED",
   "dependencies": {
-    "dayjs": "^1.11.2"
+    "dayjs": "^1.11.2",
+    "knex": "^2.0.0"
   }
 }
